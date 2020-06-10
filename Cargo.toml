@@ -1,5 +1,5 @@
 [package]
-name = "gcf-resource"
+name = "gcf_resource"
 version = "0.1.0"
 authors = ["Rui Yang <ryang@pivotal.io>"]
 edition = "2018"
@@ -10,4 +10,12 @@ edition = "2018"
 
 [[bin]]
 name = "check"
-path = "src/check/main.rs"
+path = "src/check.rs"
+
+[[bin]]
+name = "in"
+path = "src/in.rs"
+
+[[bin]]
+name = "out"
+path = "src/out.rs"
