@@ -1,4 +1,4 @@
-# GCF Resource [![Build Status](https://travis-ci.org/frodenas/gcs-resource.png)](https://travis-ci.org/frodenas/gcs-resource)
+# GCF Resource [![Build Status](https://travis-ci.org/xtremerui/gcf-resource.png)](https://travis-ci.org/xtremerui/gcf-resource)
 
 Supports checking, fetching, and pushing of Cloud Funtions to Google Cloud.
 
